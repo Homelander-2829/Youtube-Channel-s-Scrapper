@@ -25,3 +25,4 @@ A comprehensive Python-based utility designed to retrieve extensive and detailed
 
 •	dotenv for environment variable management
 
+*** .env file is not there as it is private
