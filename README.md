@@ -1,5 +1,5 @@
 # YouTube Channel Scraper
-A Python-based tool to fetch detailed information about YouTube channels and video comments using the YouTube Data API.
+A comprehensive Python-based utility designed to retrieve extensive and detailed data about YouTube channels, including channel statistics, descriptions, and video comments, utilizing the YouTube Data API for seamless integration. This tool is highly efficient for developers, researchers, and enthusiasts looking to analyze or collect data from YouTube in a structured and reliable manner.
 # Features
 •	Fetches channel information such as:
 
