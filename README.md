@@ -3,10 +3,15 @@ A Python-based tool to fetch detailed information about YouTube channels and vid
 # Features
 •	Fetches channel information such as:
 o	Channel name
+
 o	Description
+
 o	Subscriber count
+
 o	View count
+
 o	Joined date
+
 •	Extracts comments from YouTube videos.
 •	Supports multiple formats for YouTube URLs.
 # Technologies Used
